@@ -1,2 +1,2 @@
 # EstadisticasCienciaDeDatos
-Curso Estadísticas para Ciencia de Datos 
+Notebooks Curso Estadísticas para Ciencia de Datos 
